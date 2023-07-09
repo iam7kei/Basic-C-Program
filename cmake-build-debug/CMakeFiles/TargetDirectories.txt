@@ -1,0 +1,3 @@
+D:/Kei/SharpIT/Assignments/2/basic-c-program/cmake-build-debug/CMakeFiles/basic_c_program.dir
+D:/Kei/SharpIT/Assignments/2/basic-c-program/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kei/SharpIT/Assignments/2/basic-c-program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
